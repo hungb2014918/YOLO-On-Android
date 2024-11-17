@@ -1,1 +1,0 @@
-# YOLO-On-Android
